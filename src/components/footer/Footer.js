@@ -9,7 +9,7 @@ const footer = () => {
 					<nav className="row">
 						<Link
 							to="/"
-							className="col-12 col-md-3 d-flex aling-items-center justyfy-content-center"
+							className="col-12 col-md-3 d-flex aling-items-center justify-content-center"
 						>
 							<img src="./images/tituloPokemon.png" height="40px" />
 						</Link>
